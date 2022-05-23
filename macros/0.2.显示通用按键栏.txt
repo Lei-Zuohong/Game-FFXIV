@@ -1,0 +1,7 @@
+/hotbar share 1 on
+/hotbar share 2 on
+/hotbar share 3 on
+/hotbar share 4 on
+/hotbar share 5 on
+/hotbar share 6 on
+/hotbar share 7 on

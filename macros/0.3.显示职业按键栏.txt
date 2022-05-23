@@ -1,0 +1,7 @@
+/hotbar share 1 off
+/hotbar share 2 off
+/hotbar share 3 off
+/hotbar share 4 off
+/hotbar share 5 off
+/hotbar share 6 off
+/hotbar share 7 off

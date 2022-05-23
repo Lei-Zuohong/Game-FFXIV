@@ -1,0 +1,7 @@
+/hotbar remove 1 all
+/hotbar remove 2 all
+/hotbar remove 3 all
+/hotbar remove 4 all
+/hotbar remove 5 all
+/hotbar remove 6 all
+/hotbar remove 7 all

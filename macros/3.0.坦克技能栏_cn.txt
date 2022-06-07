@@ -1,0 +1,8 @@
+/hotbar set 挑衅 1 10
+/hotbar set 退避 1 11
+/hotbar set 亲疏自行 1 12
+/hotbar set 下踢 3 7
+/hotbar set 插言 3 8
+/hotbar set 铁壁 7 2
+/hotbar set 雪仇 7 3
+/hotbar set 极限技 7 6

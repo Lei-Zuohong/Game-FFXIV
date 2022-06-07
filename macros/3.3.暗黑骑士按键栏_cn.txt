@@ -1,1 +1,28 @@
-/e test3
+/hotbar set 重斩 1 1
+/hotbar set 吸收斩 1 2
+/hotbar set 噬魂斩 1 3
+/hotbar set 释放 2 1
+/hotbar set 刚魂 2 2
+/hotbar set 伤残 3 1
+/hotbar set 至黑之夜 2 3
+/hotbar set 血溅 1 4
+/hotbar set 寂灭 2 4
+/hotbar set 暗黑锋 1 5
+/hotbar set 暗黑波动 2 5
+/hotbar set 跳斩 1 6
+/hotbar set 腐秽大地 1 7
+/hotbar set 腐秽大地 2 7
+/hotbar set 精雕怒斩 1 8
+/hotbar set 吸血深渊 2 8
+/hotbar set 血乱 1 9
+/hotbar set 暗影使者 2 9
+/hotbar set 掠影示现 2 10
+/hotbar set 献奉 2 11
+/hotbar set 深恶痛绝 7 12
+/hotbar set 暗影墙 7 1
+/hotbar set 弃明投暗 7 7
+/hotbar set 暗黑布道 7 8
+/hotbar set 至黑之夜 7 4
+/hotbar set 行尸走肉 7 5
+
+
